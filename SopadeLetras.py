@@ -76,4 +76,5 @@ class SopaPalabras():
 				continue
 	
 	
-	
+Sopa = SopaPalabras(10, 10)
+print(Sopa)
